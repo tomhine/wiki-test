@@ -1,4 +1,4 @@
-# Tom Hine Knowledge Base Test
+# Knowledge Base Test
 
 [Home](index.md)
 [Top Level Link](top-level-file.md)
