@@ -5,3 +5,4 @@
 [Nested]()
 
   * [Nested Link](sub/nested-file.md)
+  * [Images](sub/images.md)
